@@ -6,7 +6,7 @@ import Footer from "./Components/Footer.jsx";
 import AuthPage from "./Pages/AuthPage.jsx";
 import AllProducts from "./Pages/AllProducts.jsx";
 import ProductDetail from "./Pages/ProductDetail.jsx";
-import Cart from "./pages/cart.jsx";
+import Cart from "./Pages/Cart.jsx";
 
 
 export default function App() {
