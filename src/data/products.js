@@ -1,0 +1,58 @@
+// src/data/products.js
+
+export const products = [
+  {
+    id: 1,
+    name: "Classic Hijab",
+    description: "Soft cotton hijab, perfect for everyday wear.",
+    image: "https://www.pinterest.com/pin/24136547999848722/",
+    rating: 4,
+    price: 1200,
+    available: true,
+  },
+  {
+    id: 2,
+    name: "Silk Shine",
+    description: "Elegant silk hijab with light shimmer.",
+    image: "https://via.placeholder.com/300x300.png?text=Hijab+2",
+    rating: 5,
+    price: 1800,
+    available: true,
+  },
+  {
+    id: 3,
+    name: "Chiffon Grace",
+    description: "Lightweight chiffon hijab for special occasions.",
+    image: "https://via.placeholder.com/300x300.png?text=Hijab+3",
+    rating: 3,
+    price: 1500,
+    available: false,
+  },
+  {
+    id: 4,
+    name: "Jersey Comfort",
+    description: "Breathable jersey hijab for all-day comfort.",
+    image: "https://via.placeholder.com/300x300.png?text=Hijab+4",
+    rating: 5,
+    price: 1300,
+    available: true,
+  },
+  {
+    id: 5,
+    name: "Luxe Modal",
+    description: "Luxuriously soft modal hijab in earthy tones.",
+    image: "https://via.placeholder.com/300x300.png?text=Hijab+5",
+    rating: 4,
+    price: 2000,
+    available: true,
+  },
+  {
+    id: 6,
+    name: "Everyday Essential",
+    description: "Affordable hijab with quality finish.",
+    image: "https://via.placeholder.com/300x300.png?text=Hijab+6",
+    rating: 4,
+    price: 1000,
+    available: true,
+  },
+];
